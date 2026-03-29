@@ -160,7 +160,3 @@ Body (JSON):
 	"latency_ms": 42
 }
 ```
-
----
-
-If you want, I can add a small note showing how `threshold` maps to `risk_tier` values.
